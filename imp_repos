@@ -8,3 +8,4 @@ ScheduleMaker - This one's harder. Can develop the database schema or an applica
 RSS Picker - Use an RSS library like SimplePie and provide the ability to add multiple RSS feeds and let the user pick specific news items from the aggregated list. Does not require a user system.
 GIST Clone - Requires user system(single would work). Create a system like github's Gist which allows a user to create a page from markdown syntax.
 Drag And Drop Newsletter Builder - This tutorial : http://simbyone.com/drag-and-drop-newsletter-builder-using-jquery/ lacks a back end for storing newsletters. Create one to mesh with the front end.
+College Scoreboard - data.gov provides a 'college scoreboard' API. Use this API to build a site where users can select various schools in their area. https://catalog.data.gov/dataset/college-scorecard
