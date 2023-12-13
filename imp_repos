@@ -5,5 +5,4 @@ Backend Projects :
 MyTop100Movies - API,Database,CRUD - Application which lets users set their top 100 movies. Movies could come from an API like The Movie Database (http://tmdb.org). Should allow for users to add a movie, list and rank their movie selections. Start with basic CRUD for movies and add features.
 InspireMe/MemeMaker - Stand alone service to put text over images like those inspirational posters with quotes. Alternate idea is to use blank meme images and let them add their own text to it (numerous sites exist for this). For the first you need quotes and images , here's a gist free stock image sites. Use google for blank meme images and/or quotes.
 ScheduleMaker - This one's harder. Can develop the database schema or an application. Let one user define the schedule for others. Or let users select their own schedule.
-
-
+RSS Picker - Use an RSS library like SimplePie and provide the ability to add multiple RSS feeds and let the user pick specific news items from the aggregated list. Does not require a user system.
