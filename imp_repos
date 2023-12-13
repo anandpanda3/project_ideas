@@ -3,3 +3,5 @@ imp repos - https://github.com/topics/mern-stack?l=javascript&o=desc&s=updated&u
 
 Backend Projects : 
 MyTop100Movies - API,Database,CRUD - Application which lets users set their top 100 movies. Movies could come from an API like The Movie Database (http://tmdb.org). Should allow for users to add a movie, list and rank their movie selections. Start with basic CRUD for movies and add features.
+InspireMe/MemeMaker - Stand alone service to put text over images like those inspirational posters with quotes. Alternate idea is to use blank meme images and let them add their own text to it (numerous sites exist for this). For the first you need quotes and images , here's a gist free stock image sites. Use google for blank meme images and/or quotes.
+
