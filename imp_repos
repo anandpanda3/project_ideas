@@ -7,3 +7,4 @@ InspireMe/MemeMaker - Stand alone service to put text over images like those ins
 ScheduleMaker - This one's harder. Can develop the database schema or an application. Let one user define the schedule for others. Or let users select their own schedule.
 RSS Picker - Use an RSS library like SimplePie and provide the ability to add multiple RSS feeds and let the user pick specific news items from the aggregated list. Does not require a user system.
 GIST Clone - Requires user system(single would work). Create a system like github's Gist which allows a user to create a page from markdown syntax.
+Drag And Drop Newsletter Builder - This tutorial : http://simbyone.com/drag-and-drop-newsletter-builder-using-jquery/ lacks a back end for storing newsletters. Create one to mesh with the front end.
