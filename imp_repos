@@ -13,5 +13,5 @@ PetFinder Widget - Take the data from the PetFinder API and provide either a ser
 Micro Tweet - Wordpress plugin. This idea mimics what ESPN has setup for its authors. The plugin would let any Wordpress author post a tweet which would appear on the front of the wordpress website (or within a widget).
 Weather Logger - Build the standard weather widget API project but add the ability to log the current weather data and to view historical data. Bonus points if it's accessible programmatically. https://www.ncdc.noaa.gov/cdo-web/webservices/v2
 Micro PHP Framework Web Site - Build a simple (<10page) website using a php micro framework like Slim or Silex. Could also be used to build your portfolio. Can make it file based, database, or a light database like sqlite.
-
+Faceted Search/Navigation. This is the advanced search/filter functionality available on many sites. It's a design pattern. Can read about it here : http://alistapart.com/article/design-patterns-faceted-navigation . Implement it on the back end and the front end if you're bored.
 
