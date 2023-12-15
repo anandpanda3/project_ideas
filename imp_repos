@@ -9,3 +9,4 @@ RSS Picker - Use an RSS library like SimplePie and provide the ability to add mu
 GIST Clone - Requires user system(single would work). Create a system like github's Gist which allows a user to create a page from markdown syntax.
 Drag And Drop Newsletter Builder - This tutorial : http://simbyone.com/drag-and-drop-newsletter-builder-using-jquery/ lacks a back end for storing newsletters. Create one to mesh with the front end.
 College Scoreboard - data.gov provides a 'college scoreboard' API. Use this API to build a site where users can select various schools in their area. https://catalog.data.gov/dataset/college-scorecard
+PetFinder Widget - Take the data from the PetFinder API and provide either a service or script that allows other site owners to insert it into their websites. https://www.petfinder.com/developers/api-docs
