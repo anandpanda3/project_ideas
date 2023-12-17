@@ -18,4 +18,6 @@ Auth Login - Recommend this one because it can replace a user system in some of 
 Simple CRUD sites - Create, Read,Update,Delete (read includes list). Possible 'objects' could be Dog Breeds, any type of pet, plants, flowers etc. Level of detail is up to you. Locations like Museums, National Parks. Events like music festivals is another possibility. Data Model sample for Events : http://www.databaseanswers.org/data_models/enterprise_data_model_for_events_and_exhibitions/index.htm
 RESTful API - use the same list from the CRUD sites but make it available as an API.
 Build some Data Models - People of importance or historical, whichever you like. Can use http://databaseanswers.org as a starting point with people and citizen data models : http://www.databaseanswers.org/data_models/people.htm , http://www.databaseanswers.org/data_models/citizens/index.htm
+Local Government Data Model - Did not see this particular data model on databaseanswers.org. Include titles,positions, elected or appointed positions etc.
+
 
