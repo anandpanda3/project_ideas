@@ -20,4 +20,4 @@ RESTful API - use the same list from the CRUD sites but make it available as an 
 Build some Data Models - People of importance or historical, whichever you like. Can use http://databaseanswers.org as a starting point with people and citizen data models : http://www.databaseanswers.org/data_models/people.htm , http://www.databaseanswers.org/data_models/citizens/index.htm
 Local Government Data Model - Did not see this particular data model on databaseanswers.org. Include titles,positions, elected or appointed positions etc.
 Data Models for MySQL - Create a site for MySQL data models like databaseanswers.org. Could be a long term project.
-
+Localhost Image Upload - Make a file upload script for use with wifi only devices (cellphones w/o service). Image upload and browsing of photos.
