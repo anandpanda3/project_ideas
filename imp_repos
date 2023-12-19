@@ -29,5 +29,7 @@ Workflow Application - Design a system which requires interaction between users.
 Simple Property Rentals - Application for single user to offer rental properties. Database model, multiple CRUD objects and make it self hosted.
 Database Model/Schema - Go to http://databaseanswers.org, pick a model and convert it to MySQL.
 Personnel or Business Directory - Create database model/backend for a company directory.
+SVG Floor Plan - Front end, but use SVG to create a floor plan layout type application.
+
 
 
