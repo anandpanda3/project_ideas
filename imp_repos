@@ -9,7 +9,6 @@ InspireMe/MemeMaker - Stand alone service to put text over images like those ins
 GIST Clone - Requires user system(single would work). Create a system like github's Gist which allows a user to create a page from markdown syntax.
 Drag And Drop Newsletter Builder - This tutorial : http://simbyone.com/drag-and-drop-newsletter-builder-using-jquery/ lacks a back end for storing newsletters. Create one to mesh with the front end.
 College Scoreboard - data.gov provides a 'college scoreboard' API. Use this API to build a site where users can select various schools in their area. https://catalog.data.gov/dataset/college-scorecard
-PetFinder Widget - Take the data from the PetFinder API and provide either a service or script that allows other site owners to insert it into their websites. https://www.petfinder.com/developers/api-docs
 Micro Tweet - Wordpress plugin. This idea mimics what ESPN has setup for its authors. The plugin would let any Wordpress author post a tweet which would appear on the front of the wordpress website (or within a widget).
 Weather Logger - Build the standard weather widget API project but add the ability to log the current weather data and to view historical data. Bonus points if it's accessible programmatically. https://www.ncdc.noaa.gov/cdo-web/webservices/v2
 Micro PHP Framework Web Site - Build a simple (<10page) website using a php micro framework like Slim or Silex. Could also be used to build your portfolio. Can make it file based, database, or a light database like sqlite.
