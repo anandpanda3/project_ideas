@@ -6,7 +6,7 @@ MyTop100Movies - API,Database,CRUD - Application which lets users set their top 
 ScheduleMaker - Can develop the database schema or an application. Let one user define the schedule for others. Or let users select their own schedule.
 RSS Picker - Use an RSS library like SimplePie and provide the ability to add multiple RSS feeds and let the user pick specific news items from the aggregated list. Does not require a user system.
 InspireMe/MemeMaker - Stand alone service to put text over images like those inspirational posters with quotes. Alternate idea is to use blank meme images and let them add their own text to it (numerous sites exist for this). For the first you need quotes and images , here's a gist free stock image sites. Use google for blank meme images and/or quotes.
-GIST Clone - Requires user system(single would work). Create a system like github's Gist which allows a user to create a page from markdown syntax.
+GIST  - Requires user system(single would work). Create a system like github's Gist which allows a user to create a page from markdown syntax.
 Drag And Drop Newsletter Builder - This tutorial : http://simbyone.com/drag-and-drop-newsletter-builder-using-jquery/ lacks a back end for storing newsletters. Create one to mesh with the front end.
 College Scoreboard - data.gov provides a 'college scoreboard' API. Use this API to build a site where users can select various schools in their area. https://catalog.data.gov/dataset/college-scorecard
 Micro Tweet - Wordpress plugin. This idea mimics what ESPN has setup for its authors. The plugin would let any Wordpress author post a tweet which would appear on the front of the wordpress website (or within a widget).
