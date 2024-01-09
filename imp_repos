@@ -1,7 +1,7 @@
 important repos - https://github.com/topics/mern-stack?l=javascript&o=desc&s=updated&utf8=%E2%9C%93
           
 Backend Projects : 
-MyTop100Movie - API,Database,CRUD - Application which lets users set their top 100 movies. Movies could come from an API like The Movie Database (http://tmdb.org). Should allow for users to add a movie, list and rank their movie selections. Start with basic CRUD for movies and add features.
+MyTop100Movies - API,Database,CRUD - Application which lets users set their top 100 movies. Movies could come from an API like The Movie Database (http://tmdb.org). Should allow for users to add a movie, list and rank their movie selections. Start with basic CRUD for movies and add features.
 
 ScheduleMaker - Can develop the database schema or an application. Let one user define the schedule for others. Or let users select their own schedule.
 RSS Picker - Use an RSS library like SimplePie and provide the ability to add multiple RSS feeds and let the user pick specific news items from the aggregated list. Does not require a user system.
