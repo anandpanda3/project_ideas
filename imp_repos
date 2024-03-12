@@ -10,7 +10,6 @@ Drag And Drop Newsletter Builder - This tutorial : http://simbyone.com/drag-and-
 College Scoreboard - data.gov provides a 'college scoreboard' API. Use this API to build a site where users can select various schools in their area. https://catalog.data.gov/dataset/college-scorecard
 
 
-Faceted Search/Navigation. This is the advanced search/filter functionality available on many sites. It's a design pattern. Can read about it here : http://alistapart.com/article/design-patterns-faceted-navigation . Implement it on the back end and the front end if you're bored.
 Simple CRUD sites - Create, Read,Update,Delete (read includes list). Possible 'objects' could be Dog Breeds, any type of pet, plants, flowers etc. Level of detail is up to you. Locations like Museums, National Parks. Events like music festivals is another possibility. Data Model sample for Events : http://www.databaseanswers.org/data_models/enterprise_data_model_for_events_and_exhibitions/index.htm
 RESTful API - use the same list from the CRUD sites but make it available as an API.
 Build some Data Models - People of importance or historical, whichever you like. Can use http://databaseanswers.org as a starting point with people and citizen data models : http://www.databaseanswers.org/data_models/people.htm , http://www.databaseanswers.org/data_models/citizens/index.htm
