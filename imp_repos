@@ -4,7 +4,6 @@ Backend Projects :
 MyTop100Movies - API,Database,CRUD - Application which lets users set their top 100 movies. Movies could come from an API like The Movie Database (http://tmdb.org). Should allow for users to add a movie, list and rank their movie selections. Start with basic CRUD for movies and add features.
 ScheduleMaker - Can develop the database schema or an application. Let one user define the schedule for others. Or let users select their own schedule.
 Drag And Drop Newsletter Builder - This tutorial : http://simbyone.com/drag-and-drop-newsletter-builder-using-jquery/ lacks a back end for storing newsletters. Create one to mesh with the front end.
-Build some Data Models - People of importance or historical, whichever you like. Can use http://databaseanswers.org as a starting point with people and citizen data models : http://www.databaseanswers.org/data_models/people.htm , http://www.databaseanswers.org/data_models/citizens/index.htm
 SVG Floor Plan - Front end, but use SVG to create a floor plan layout type application.
 
 
